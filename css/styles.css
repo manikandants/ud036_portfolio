@@ -1,0 +1,15 @@
+footer {
+  height: 2em;
+  vertical-align: center;
+}
+header {
+  height: 100px;
+}
+.line {
+  background-color: #7d97ad;
+  color: #7d97ad;
+  height: 3px;
+}
+.title-logo {
+  max-width: 100%;
+}
